@@ -1,0 +1,48 @@
+*{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+body{
+   background-image: url("backphoto.jpg");
+    background-size: cover;
+}
+.navbar{
+    height: 92px;
+    width: 100%;
+    border: 3px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mainnavbar{
+    height: 48px;
+    width: 978px;
+    display: flex;
+    align-items: center;
+}
+.logo{
+    height: 48px;
+    width: 148px;
+    
+}
+.logoimg{
+    height: 40px;
+    width: 100%;
+    background-image: url("logonetflix.png");
+    background-size: cover;
+    margin-bottom: 9px;
+    font-size: 3.0rem;
+}
+.lang{
+    height: 24px;
+    width: 123px;
+    border: 1px solid white;
+    border-radius: 2px;
+    text-align: center;
+    
+}
+.lang p{
+    color: white;
+    padding-top: 4px;
+}
