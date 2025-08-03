@@ -12,7 +12,7 @@ A minimal frontend UI clone of Netflix, built using **HTML** and **CSS**. This p
 
 ## 📸 Screenshot
 
-![Netflix Clone Preview](images/homepage)
+![Netflix Clone Preview](images/homepage) 
 
 
 
